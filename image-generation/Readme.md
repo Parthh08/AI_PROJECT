@@ -1,0 +1,1 @@
+This project uses Hugging Face's Diffusers library to load a pretrained Stable Diffusion model for text-to-image generation. I built a Gradio-based web app where the user can type a prompt, and the model generates an image. I also applied prompt engineering (positive and negative prompts) and controlled parameters like guidance scale, inference steps, and resolution.
